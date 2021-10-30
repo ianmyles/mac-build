@@ -1,4 +1,6 @@
 #!/bin/sh
+#
+# The above indicates that the Bourne shell `sh` command shell will be used to run the script.
 echo "Running Install Script"
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
