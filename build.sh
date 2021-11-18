@@ -20,3 +20,7 @@ brew install dbeaver-community
 brew install openssl readline sqlite3 xz zlib
 brew install 1password
 brew install protonvpn
+brew insall vanilla
+brew install imageoptim
+brew install alfred
+brew install cheatsheet
