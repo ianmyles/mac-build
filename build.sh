@@ -24,3 +24,6 @@ brew insall vanilla
 brew install imageoptim
 brew install alfred
 brew install cheatsheet
+brew install youtube-dl
+brew install iina
+brew install soundsource
